@@ -1,0 +1,9 @@
+Bootstrap is released under the MIT license and is copyright 2016 Twitter. Boiled down to smaller chunks, it can be described with the following conditions.
+
+It requires you to:
+Keep the license and copyright notice included in Bootstrap's CSS and JavaScript files when you use them in your works
+It permits you to:
+Freely download and use Bootstrap, in whole or in part, for personal, private, company internal, or commercial purposes
+Use Bootstrap in packages or distributions that you create
+Modify the source code
+Grant a sublicense to modify and distribute Bootstrap to third parties not included in the license
